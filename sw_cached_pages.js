@@ -1,4 +1,5 @@
-const cacheName = 'v3';
+// Not using  any more
+const cacheName = 'v1';
 
 const cacheAssets = [
     'index.html',
